@@ -1,0 +1,17 @@
+input[type="text"]{
+	color: red;
+	background-color: green;
+}
+input[type="number"]{
+	color:  orange;
+	background-color: black;
+}
+input[type="email"]{
+	color:purple;
+	background-color: blue;
+}
+input[type="button"]
+{
+	color: red;
+
+}

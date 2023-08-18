@@ -1,0 +1,13 @@
+input[type=""]{
+	color: darkred;
+	background-color: lightseagreen;
+}
+a[href]{
+	background-color: transparent;
+}
+a.hover{
+	font-size: 50px;
+}
+a:visited{
+	color: green;
+}
